@@ -1,0 +1,13 @@
+* ----------------------- Logisim -------------------------------------------- *
+
+Entrada: cuadrado con círculo
+Salida: círculo
+
+Transistores:
+
+Tipo N, si tiene un 0 en la entrada no deja pasar la corriente.
+Tipo P, si tiene un 1 en la entrada no deja pasar la corriente.
+
+Entradas lógicas que conocemos OR, AND, NOT.
+
+* ----------------------- C -------------------------------------------------- *
